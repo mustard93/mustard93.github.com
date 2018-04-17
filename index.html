@@ -10,10 +10,13 @@
             font-family: digit;
             src: url('digital-7_mono.ttf') format("truetype");
         }
-        EMBED{
-            width: 300px;
-            height: 50px;
-        }
+        /*EMBED{*/
+            /*width: 300px;*/
+            /*height: 50px;*/
+            /*position: absolute;*/
+            /*bottom: 0;*/
+            /*left: 0;*/
+        /*}*/
     </style>
     <link rel="stylesheet" type="text/css" href="./css/style.css">
     <link href="css/default.css" type="text/css" rel="stylesheet">
@@ -31,40 +34,27 @@
 
 <!--轮播-->
 
-<div class="content">
-    <div class="a-content">
-        <div class="carousel-content">
-            <ul class="carousel">
-                <li><img src="./images/1.jpg"></li>
-                <li><img src="./images/2.jpg"></li>
-                <li><img src="./images/3.jpg"></li>
-                <li><img src="./images/4.jpg"></li>
-            </ul>
-            <ul class="img-index"></ul>
-            <div class="carousel-prev"><img src="./images/left1.png"></div>
-            <div class="carousel-next"><img src="./images/right1.png"></div>
-        </div>
-    </div>
-</div>
-
-<div class="content1">
-    <div class="a-content">
-        <div class="carousel-content">
-            <ul class="carousel">
-                <li><img src="./images/1.jpg"></li>
-                <li><img src="./images/2.jpg"></li>
-                <li><img src="./images/3.jpg"></li>
-                <li><img src="./images/4.jpg"></li>
-            </ul>
-            <ul class="img-index"></ul>
-            <div class="carousel-prev"><img src="./images/left1.png"></div>
-            <div class="carousel-next"><img src="./images/right1.png"></div>
-        </div>
-    </div>
-</div>
-
 
 <div id="mainDiv">
+    <div class="content " id="mlef">
+        <div class="a-content">
+            <div class="carousel-content">
+                <ul class="carousel">
+                    <li><img src="./images/1.jpg"></li>
+                    <li><img src="./images/2.jpg"></li>
+                    <li><img src="./images/3.jpg"></li>
+                    <li><img src="./images/4.jpg"></li>
+                    <li><img src="./images/5.jpg"></li>
+                    <li><img src="./images/6.jpg"></li>
+                    <li><img src="./images/7.jpg"></li>
+                </ul>
+                <ul class="img-index"></ul>
+                <div class="carousel-prev"><img src="./images/left1.png"></div>
+                <div class="carousel-next"><img src="./images/right1.png"></div>
+            </div>
+        </div>
+    </div>
+
     <div id="content" style="margin-top: 0">
         <div id="code">
             <span class="comments">/**</span><br />
@@ -110,7 +100,9 @@
     </div>
 </div>
 
-<EMBED type="audio/mpeg" src="css/1.mp3"  loop="true" ></EMBED>
+<!--<EMBED type="audio/mpeg" src="css/1.mp3"  loop="true" ></EMBED>-->
+
+<embed src="css/1.mp3" autostart="true" loop="true" hidden="true"></embed>
 
 <script type="text/javascript">
     var offsetX = $("#loveHeart").width() / 2;

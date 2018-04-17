@@ -17,15 +17,11 @@ ul{
 	list-style: none;
 }
 .content{
-	display: flex;
+	display: inline-block;
     justify-content: center;
     align-items: center;
 }
-.content1{
-	position: absolute;
-	top: 0;
-	left: 70%;
-}
+
 .a-content{
 	border: 1px solid rgba(0,0,0,0.1);
     border-radius:20px;
@@ -35,8 +31,8 @@ ul{
 }
 
 .carousel-content{
-	width: 22rem;
-	height:30rem;
+	width: 30rem;
+	height:40rem;
 	position: relative;
 	overflow: hidden;
 	border-radius:10px;
@@ -49,8 +45,8 @@ ul{
 	float: left;
 }
 .carousel li,.carousel li img{
-	width: 22rem;
-	height: 30rem;
+	width: 30rem;
+	height: 40rem;
 }
 .img-index{
 	position: absolute;
