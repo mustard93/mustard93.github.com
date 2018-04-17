@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd65d58a-a6a2-4690-8c2a-d08b1ed12525" name="Default" comment="123123">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo.html" />
+    <list default="true" id="cd65d58a-a6a2-4690-8c2a-d08b1ed12525" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/1.mp3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -21,22 +21,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="133" column="30" lean-forward="false" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+            <state relative-caret-position="285">
+              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
                 <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#4150#4574#0" expanded="false" />
+                <element signature="e#4290#4714#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carousel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/carousel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-874">
-              <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -177,7 +167,7 @@
       <updated>1523890660001</updated>
       <workItem from="1523890661135" duration="436000" />
       <workItem from="1523891214479" duration="1011000" />
-      <workItem from="1523927528137" duration="12211000" />
+      <workItem from="1523927528137" duration="13083000" />
     </task>
     <task id="LOCAL-00001" summary="12323">
       <created>1523890930531</created>
@@ -214,11 +204,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523940165899</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="修改轮播">
+      <created>1523940315751</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1523940315751</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13658000" />
+    <option name="totallyTimeSpent" value="14530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="331" y="18" width="1400" height="1000" extended-state="0" />
@@ -272,7 +269,8 @@
     <MESSAGE value="删除广告2" />
     <MESSAGE value="123123" />
     <MESSAGE value="轮播图" />
-    <option name="LAST_COMMIT_MESSAGE" value="轮播图" />
+    <MESSAGE value="修改轮播" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改轮播" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -285,7 +283,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#4150#4574#0" expanded="false" />
+            <element signature="e#4290#4714#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -296,7 +294,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#4150#4574#0" expanded="false" />
+            <element signature="e#4290#4714#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -412,11 +410,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="133" column="30" lean-forward="false" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+        <state relative-caret-position="285">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
             <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#4150#4574#0" expanded="false" />
+            <element signature="e#4290#4714#0" expanded="false" />
           </folding>
         </state>
       </provider>
